@@ -1,0 +1,39 @@
+# Maven build output
+/target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Maven wrapper files (optional)
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java compiled class files
+*.class
+
+# IDE-specific
+.idea/
+*.iml
+*.launch
+.externalToolBuilders/
+.sts4-cache/
+
+# Misc
+hs_err_pid*
+
+test-output/
+allure-results/
+screenshots/
