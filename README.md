@@ -77,8 +77,8 @@ C:.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/J0seph-Mart1n/ProTester-Hackathon-Project.git
-   cd ProTester-Hackathon-Project
+   git clone https://github.com/balasaheb078/Hackathon_project.git
+   cd Hackathon_project
    ```
 
 2. **Install dependencies**
